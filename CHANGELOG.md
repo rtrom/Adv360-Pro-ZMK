@@ -238,6 +238,6 @@ Note: Several features that used to be custom to this branch (BT battery reporti
 
 9/11/2022 - Diverge from base ZMK (Commit 6124d25)
 
-
+ 
 ### adv360-beta
 This repository has been deprecated for a year and as such will not be documented, it is advisable to upgrade to V3.0 as this has more features and improved reliability
